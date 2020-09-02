@@ -1,0 +1,28 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/nomClientFilter"
+        android:title="Nom Client"
+        app:showAsAction="never">
+
+    </item>
+    <item
+        android:id="@+id/zonaFilter"
+        android:title="Zona"
+        app:showAsAction="never"></item>
+    <item
+        android:id="@+id/PoblacioFilter"
+        android:title="Població"
+        app:showAsAction="never"></item>
+    <item
+        android:id="@+id/AguarecaFilter"
+        android:title="Adreça"
+        app:showAsAction="never"></item>
+    <item
+        android:id="@+id/RevisioFilter"
+        android:title="Ultima Revisio"
+        app:showAsAction="never"></item>
+
+
+</menu>
